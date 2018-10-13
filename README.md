@@ -1,6 +1,4 @@
-# Citrine_Internship
-
-This is a repository with my code for an internship application at Citrine Informatics in Redwood City, CA. I did not get the internship.
+This is a repository with my code for modeling the magnetic moment of a molecule based on the some theory data. I also used it to apply for an internship application at Citrine Informatics in Redwood City, CA.
 
 The code is organized such that the parent directory includes all my scratchwork. Inside the 'submission' folder is the streamlined code along with a report I wrote up for the application.
 
